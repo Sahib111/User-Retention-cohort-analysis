@@ -19,4 +19,4 @@ RECOMMENDATIONS:
      what these cohorts share (season, channel, product).
   3. Cohort size varies avoid drawing conclusions from
      months with fewer than 100 new customers.
-# User-Retention-cohort-analysis
+
